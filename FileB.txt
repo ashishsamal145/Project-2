@@ -2,3 +2,4 @@ This is file B
 making 4th change
 making 5th changes
 making 6th changes
+making 7th changes
