@@ -1,6 +1,4 @@
 This is file B
-<<<<<<< HEAD
-this is a change
-=======
 making 4th change
->>>>>>> FeatureA
+making 5th changes
+making 6th changes
